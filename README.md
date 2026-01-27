@@ -9,9 +9,9 @@ El repositorio se sugiere que tenga la siguiente estructura:
 ```
 03MIAR-Algoritmos-de-Optimizaci-n/
 │
-├── notebooks/
-├── scripts/
-├── data/
+├── notebooks/ # Actividades Guiadas, Trabajos y Proyectos
+├── scripts/   # Scripts de código python
+├── data/      # Ficheros de datos (doc, pdf, csv...) con los que trabajar
 └── README.md
 ```
 
