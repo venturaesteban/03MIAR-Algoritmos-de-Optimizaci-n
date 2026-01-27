@@ -17,12 +17,8 @@ El repositorio se sugiere que tenga la siguiente estructura:
 
 ## Cómo ejecutar los notebooks
 
-Para ejecutar los notebooks, puedes clonarlo en tu máquina local, y abrir los archivos `.ipynb` en Google Colab o en Jupyter. Se recomienda que tengas instalado las librerías necesarias que se especificarán en el `requirements.txt` si es que se incluye uno.
+Para ejecutar los notebooks, puedes clonarlo en tu máquina local y usar Jupyter Lab para trabajar con ellos, y/o abrir los archivos `.ipynb` en Google Colab.
 
 ## Consejos sobre el entorno
 
-Asegúrate de tener un entorno de Python configurado con las librerías requeridas. Puedes crear un entorno virtual usando `venv` o `conda`, lo que facilitará la gestión de dependencias.
-
-## Descargo de responsabilidad
-
-Esta descripción es orientativa debido a que el syllabus oficial no fue encontrado en fuentes públicas.
+Si ejecutas los notebooks en local, asegúrate de tener un entorno de Python configurado con las librerías requeridas. Puedes crear un entorno virtual usando `venv` o `conda`, lo que facilitará la gestión de dependencias.
